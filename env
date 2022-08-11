@@ -1,3 +1,3 @@
 PORT = 5000
 MODE = development
-MONGO_URI = mongodb+srv://BasilSwaggert:AdminPass@todocluster.p0ngmaw.mongodb.net/test?retryWrites=true&w=majority
+MONGO_URI = mongodb+srv://<username>:<password>@todocluster.p0ngmaw.mongodb.net/test?retryWrites=true&w=majority
