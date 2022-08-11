@@ -4,7 +4,7 @@ Todo list API technical challenge
 To run the application, start the nodemon server with command "npm run dev". This command uses scripts I've written in on lines 6-8 in the "package.json".
 The server will begin running on port: 5000
 
-You will need to use a MongoDB database with admin credentials to run the program and have persistent entries.
+You will need to use a MongoDB database with admin credentials to run the program and have persistent entries. You will need to add your username and password to line 3 in the "env" otherwise you will not be able to use Mongodb.
 You will want to use POSTMAN to utilize this application.
 
 When using Postman we will be looking at the "Body" and you will need to make a few configurations. Make sure the response is selected as "Raw" and "JSON".
